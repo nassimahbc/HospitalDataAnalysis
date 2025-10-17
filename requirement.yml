@@ -1,0 +1,4 @@
+name: hospital_env
+channels:
+  - defaults
+prefix: C:\Users\habbi\anaconda3\envs\hospital_env
